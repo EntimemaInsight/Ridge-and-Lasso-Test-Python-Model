@@ -43,3 +43,7 @@ The following dependencies are required to run the Python model:
 
 This project is licensed under the MIT License.
 
+## Credits
+
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License. If you have any questions or comments, feel free to contact me at alexi.zein@gmail.com.
+
